@@ -1,0 +1,54 @@
+  
+  
+------------------------- 
+ REGISTRY SETTINGS AND INFORMATION 
+------------------------- 
+ HKLM\Software\Microsoft\Windows\CurrentVersion\Runonce: 
+------------------------- 
+------------------------- 
+ HKLM\Software\Microsoft\Windows\CurrentVersion\Run: 
+------------------------- 
+ HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run 
+ SecurityHealth    REG_EXPAND_SZ    %ProgramFiles%\Windows Defender\MSASCuiL.exe 
+ RTHDVCPL    REG_SZ    "C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe" -s 
+ RtHDVBg_PushButton    REG_SZ    "C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe" /IM 
+ WavesSvc    REG_SZ    "C:\Program Files\Waves\MaxxAudio\WavesSvc64.exe" -Jack 
+ TrueColor UI    REG_SZ    C:\Program Files\TrueColor\TrueColorUI.exe 
+ QuickSet    REG_SZ    c:\Program Files\Dell\QuickSet\QuickSet.exe 
+ IAStorIcon    REG_SZ    "C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIconLaunch.exe" "C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe" 60 
+ ShadowPlay    REG_SZ    "C:\Windows\system32\rundll32.exe" C:\Windows\system32\nvspcap64.dll,ShadowPlayOnSystemStart 
+ AvastUI.exe    REG_SZ    "C:\Program Files\AVAST Software\Avast\AvLaunch.exe" /gui 
+------------------------- 
+ HKLM\Software\Microsoft\Windows\CurrentVersion\policies\Explorer\Run: 
+------------------------- 
+------------------------- 
+ HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Run: 
+------------------------- 
+------------------------- 
+ HKCU\Software\Microsoft\Windows\CurrentVersion\Run: 
+------------------------- 
+ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run 
+ OneDrive    REG_SZ    "C:\Users\Ross\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background 
+ Steam    REG_SZ    "C:\Program Files (x86)\Steam\steam.exe" -silent 
+ Discord    REG_SZ    C:\Users\Ross\AppData\Local\Discord\app-0.0.298\Discord.exe 
+------------------------- 
+ HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce: 
+------------------------- 
+------------------------- 
+ HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce: 
+------------------------- 
+------------------------- 
+ Registry Most Recently Used Programs: 
+------------------------- 
+ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU 
+ a    REG_SZ    ms-settings:personalization-start\1 
+ MRUList    REG_SZ    a 
+------------------------- 
+ Subkeys of UserAssist key: 
+------------------------- 
+------------------------- 
+ Wireless Networks and Settings visited from this Machine: 
+------------------------- 
+------------------------- 
+ LAN Devices this Computer has had access to: 
+------------------------- 
